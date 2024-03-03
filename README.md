@@ -1,6 +1,8 @@
 # Research-Practice-Progress
 
 Week 1 (February 26th-March 3rd 2024):
+Test LSTM and GRU on the dataset, but without any preprocessing (to establish a starting point)
+Ensure the existence of cross-validation
 
 Week 2 (March 4th-March 10th 2024):
 
