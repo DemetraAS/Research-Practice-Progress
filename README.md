@@ -1,10 +1,17 @@
 # Research-Practice-Progress
 
 Week 1 (February 26th-March 3rd 2024):
-Test LSTM and GRU on the dataset, but without any preprocessing (to establish a starting point)
-Ensure the existence of cross-validation
+
+- Tested our best GRU architecture on the existing dataset, without preprocessing (proved not to be particularly useful)
+- Identified a particularly promising and novel solution, i.e. a Restricted Boltzmann Machines-GRU hybrid
 
 Week 2 (March 4th-March 10th 2024):
+
+- Started the implementation by constructing our dataframe from the 3 separate files (proved a bit challenging)
+- Conducted a correlation analysis to assess which attributes can be excluded from each subset
+- Applied Moving Median Filtering to deal with noise and outliers (window_size=5) 
+- Performed Z-score normalization (standardization)
+- Implemented the calculation of the asymmetric scoring function (PHME- Prognostic Health Management Error)
 
 Week 3 (March 11th-March 17th 2024):
 
