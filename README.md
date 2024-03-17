@@ -14,7 +14,11 @@ Week 2 (March 4th-March 10th 2024):
 - Implemented the calculation of the asymmetric scoring function (PHME- Prognostic Health Management Error)
 
 Week 3 (March 11th-March 17th 2024):
-
+- Discovered that the previous assignation of the target label (RUL) was not properly conducted
+- Implemented a piece-wise function able to estimate the first point of degradation for every engine that has been run to failure
+- Performed an Exploratory Data Analysis for each individual attribute and dataset (an univariate analysis complete with all the necessary statistics)
+- Attempted to correctly assign the RUL labels to the attributes, based on the degradation modeling step (still in progress)
+  
 Week 4 (March 18th-March 24th 2024):
 
 Week 5 (March 25th-March 31th 2024):
