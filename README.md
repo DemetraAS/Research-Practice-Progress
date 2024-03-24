@@ -20,6 +20,8 @@ Week 3 (March 11th-March 17th 2024):
 - Attempted to correctly assign the RUL labels to the attributes, based on the degradation modeling step (still in progress)
   
 Week 4 (March 18th-March 24th 2024):
+-Managed to accurately assign RUL to the training and testing sets (assignation is different for testing and training)
+-Created a draft for the research paper, making sure that the length criteria will be respected
 
 Week 5 (March 25th-March 31th 2024):
 
