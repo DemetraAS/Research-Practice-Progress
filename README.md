@@ -28,6 +28,7 @@ Week 5 (March 25th-March 31th 2024):
 - Established the performance metrics that will be used - RMSE, MAPE, MAE and the asymmetric scoring function
 - Started testing a variety of suggested architectures, but the performance metrics were deeply unsatisfactory (with and without preprocessing)
 - Tried to pinpoint the issue, but was unable to do so
+- Performed some additional research regarding Turbofan engines and rendered some visualizations for the research paper
 
 Week 6 (April 1st-April 7th 2024):
 
