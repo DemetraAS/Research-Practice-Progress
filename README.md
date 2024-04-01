@@ -24,6 +24,10 @@ Week 4 (March 18th-March 24th 2024):
 - Created a draft for the research paper, making sure that the length criteria will be respected
 
 Week 5 (March 25th-March 31th 2024):
+- Prepared the preprocessed data for training
+- Established the performance metrics that will be used - RMSE, MAPE, MAE and the asymmetric scoring function
+- Started testing a variety of suggested architectures, but the performance metrics were deeply unsatisfactory (with and without preprocessing)
+- Tried to pinpoint the issue, but was unable to do so
 
 Week 6 (April 1st-April 7th 2024):
 
