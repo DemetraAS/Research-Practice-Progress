@@ -31,9 +31,9 @@ Week 5 (March 25th-March 31th 2024):
 - Performed some additional research regarding Turbofan engines and rendered some visualizations for the research paper
 
 Week 6 (April 1st-April 7th 2024):
--Tested Machine Learning algorithms (both classical and ensembles), but the results were once again inappropriate
--During the classification, discovered that the filtering and damage modeling parts were lacking
--Based on the discoveries, improved upon the necessary parts as was seen fit
+- Tested Machine Learning algorithms (both classical and ensembles), but the results were once again inappropriate
+- During the classification, discovered that the filtering and damage modeling parts were lacking
+- Based on the discoveries, improved upon the necessary parts as was seen fit
 
 Week 7 (April 8th-April 14th 2024):
 
