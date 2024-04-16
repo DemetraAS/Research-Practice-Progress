@@ -36,6 +36,9 @@ Week 6 (April 1st-April 7th 2024):
 - Based on the discoveries, improved upon the necessary parts as was seen fit
 
 Week 7 (April 8th-April 14th 2024):
+- Created visualizations for the research paper
+- Added information to the research paper draft
+- Tested the results of the of some suggested models with the new preprocessing
 
 Week 8 (April 15th-April 21th 2024):
 
