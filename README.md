@@ -41,11 +41,24 @@ Week 7 (April 8th-April 14th 2024):
 - Tested the results of the of some suggested models with the new preprocessing
 
 Week 8 (April 15th-April 21th 2024):
+- Studied the selection of thresholds for damage modeling
+- Concluded that selecting different thresholds for each subset of the NASA C-MAPSS is more appropriate
 
-Week 9:
+Week 9 (April 22th-April 28th 2024):
+- implemented a restricted Boltzmann Machines and LSTM hybrid architecture from scratch
+- the results were underwhelming (not able to achieve state-of-the-art results), so the idea was scrapped
+- wrote the theoretical part of the paper
 
-Week 10:
+[EASTER BREAK]
 
-Week 11:
+Week 10 (May 7th-May 12th 2024):
+- changed approaches and decided to implement a CNN-LSTM hybrid architecture
+- results were able to achieve state-of-the-art status and were low enough that testing other potential solutions was not warranted
+- wrote the part of the paper that describes the methodology of the contribution
 
-Week 12:
+Week 11 (May 13th-May 19th 2024):
+- implemented other approaches to simply compare the performance metrics
+- finalized the first version of the papers by completing the results and conclusions 
+
+Week 12 (May 20th-May 26th 2024):
+- edited the research paper and added the final details
